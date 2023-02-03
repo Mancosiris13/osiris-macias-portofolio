@@ -55,7 +55,7 @@ export default function Home() {
             <p className="text-lg py-5 leading-8  text-gray-800 md:text-xl max-w-xl mx-auto dark:text-white">
               Likable, dedicated and quick learner Frontend Developer with over
               1 year of experience in learning, creating and maintaining code.
-              Fell free to reach me out and let's get cracking!
+              Fell free to reach me out and lets get cracking!
             </p>
           </div>
           <div className="text-5xl flex justify-center gap-20 py-3 text-gray-600 pb-3">
